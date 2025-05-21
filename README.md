@@ -3,16 +3,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=cf0638&size=35&center=true&vCenter=true&width=1000&lines=Ola,+Meu+Nome+é+Lucas+Baraldi+Citrangulo;Eu+Tenho+16+anos;Eu+sou+de+São+Paulo,+SP;Sou+aluno+da+FIAP+School;Sejam+Bem-vindos!+:%29)](https://git.io/typing-svg)
  
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pedrokarkar&show_icons=true&count_private=true&hide_border=true&title_color=cf0638&icon_color=cf0638&text_color=cf0638&bg_color=0d1117" alt="Pedro Karkar github stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=cypherlipse&show_icons=true&count_private=true&hide_border=true&title_color=cf0638&icon_color=cf0638&text_color=cf0638&bg_color=0d1117" alt="Lucas Baraldi github stats" />
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrokarkar&layout=compact&hide_border=true&title_color=cf0638&text_color=cf0638&bg_color=0d1117" />
 </div>
  
  
-[![Lucas Baraldi github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pedrokarkar&bg_color=000000&color=cf0638&line=cf0638&point=cf0638&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Lucas Baraldi github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cypherlipse&bg_color=000000&color=cf0638&line=cf0638&point=cf0638&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 ### Conecte-se Comigo:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/pedrodjekem?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
-<a href="https://www.linkedin.com/in/pedrokarkar/" rel="nofollow"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/Lucas_citrangulo_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
+<a href="https://www.linkedin.com/in/Lucas Baraldi/" rel="nofollow"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
  
  
 ### Estudando Neste Momento:
