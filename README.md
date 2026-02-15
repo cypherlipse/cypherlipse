@@ -1,4 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cf0638&height=120&section=header"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=cf0638&height=120&section=header"/>
+</p>
+
    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=cf0638&size=35&center=true&vCenter=true&width=1000&lines=Ola,+Meu+Nome+é+Lucas+Baraldi+Citrangulo;Eu+Tenho+16+anos;Eu+sou+de+São+Paulo,+SP;Sou+aluno+da+FIAP+School;Sejam+Bem-vindos!+:%29)](https://git.io/typing-svg)
  
