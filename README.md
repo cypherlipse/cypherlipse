@@ -2,11 +2,6 @@
    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=cf0638&size=35&center=true&vCenter=true&width=1000&lines=Ola,+Meu+Nome+é+Lucas+Baraldi+Citrangulo;Eu+Tenho+16+anos;Eu+sou+de+São+Paulo,+SP;Sou+aluno+da+FIAP+School;Sejam+Bem-vindos!+:%29)](https://git.io/typing-svg)
  
-<div align="center">  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cypherlipse&layout=compact&hide_border=true&title_color=cf0638&text_color=cf0638&bg_color=0d1117" />
-</div>
- 
- 
 [![Lucas Baraldi github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cypherlipse&bg_color=000000&color=cf0638&line=cf0638&point=cf0638&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 ### Conecte-se Comigo:
